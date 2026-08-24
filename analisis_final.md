@@ -63,6 +63,17 @@ La implementación de LSTM también estuvo relacionada con la experiencia previa
 
 No obstante, la experiencia previa fue un factor práctico para seleccionar el modelo, no una validación suficiente de su superioridad. Como parte de una versión posterior del proyecto, sería importante realizar una comparación sistemática contra otros enfoques y seleccionar el modelo final con base en una validación temporal y criterios de desempeño definidos previamente.
 
+Alcance y experiencia adicional
+No cuento con experiencia práctica previa en la implementación de agentes de inteligencia artificial. Sin embargo, conozco sus generalidades, sus componentes principales y el tipo de flujo que normalmente puede utilizarse para integrar modelos, herramientas, memoria y procesos de decisión.
+
+Decidí no incorporar agentes de inteligencia artificial como un componente adicional del proyecto, ya que no los he utilizado directamente en un desarrollo anterior ni formaban parte del flujo que fue implementado y validado en este ejercicio. Preferí mantener el análisis enfocado en las actividades que sí fueron realizadas: integración y limpieza de datos, análisis exploratorio, modelado, pronóstico, evaluación de métricas y generación de resultados.
+
+La misma consideración aplica para el diagrama de arquitectura o flujo. Tengo una idea general de cómo podría estructurarse una solución de este tipo; sin embargo, no quise presentar un diagrama como si representara una implementación ya realizada cuando únicamente se trata de una propuesta conceptual.
+
+Considero importante distinguir entre los conocimientos generales y la experiencia práctica. Por esta razón, cualquier incorporación de agentes de IA o de una arquitectura más completa se plantea como una posible línea de trabajo futuro. En una siguiente etapa sería posible diseñar el flujo, seleccionar las herramientas, implementar un prototipo y evaluar su funcionamiento con un caso controlado.
+
+Esta decisión busca mantener la trazabilidad y honestidad técnica del proyecto: los elementos presentados corresponden a procesos que fueron efectivamente desarrollados, ejecutados o evaluados, mientras que los componentes no implementados se señalan como oportunidades de mejora y no como resultados del trabajo actual.
+
 ## Conclusión
 
 El análisis permitió integrar información histórica de insumos y equipos, explorar sus relaciones, generar pronósticos de corto y mediano plazo y establecer una primera referencia para la planeación de compras.
