@@ -122,3 +122,24 @@ Antes de utilizar el proyecto con información nueva, se recomienda actualizar l
 
 Resultados
 El notebook permite obtener una visión general de la evolución de los precios, revisar las relaciones entre las variables, evaluar los pronósticos y comparar las propuestas de distintos proveedores.
+# Proyecto DataKnow - Caso Técnico
+
+Este proyecto contiene un **notebook en Python** para realizar análisis y pronósticos utilizando datasets en formato CSV.  
+El objetivo es cargar los datos, procesarlos y generar resultados reproducibles.
+
+---
+
+## 📂 Estructura del repositorio
+- `notebooks/` → Notebook principal (`DataKnow_caso_tecnico.ipynb`)
+- `data/` → Carpeta donde deben colocarse los archivos CSV
+- `results/` → Carpeta para guardar métricas y salidas del modelo
+- `README.md` → Documentación del proyecto
+
+---
+
+## ⚙️ Cómo usar el proyecto
+
+1. **Clonar el repositorio**
+   ```bash
+   git clone https://github.com/usuario/Dataknow_caso_tecnico.git
+   cd Dataknow_caso_tecnico
