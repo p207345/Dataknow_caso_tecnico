@@ -1,8 +1,10 @@
 # Dataknow_caso_tecnico
 Análisis y pronóstico de precios
+
 Proyecto de análisis de datos enfocado en estudiar el comportamiento histórico de los precios de tres insumos y dos equipos, así como en generar pronósticos para apoyar la toma de decisiones.
 
 Descripción
+
 El proyecto parte de la necesidad de analizar la variación de los precios de ciertos equipos y determinar si existe alguna relación con los precios de diferentes insumos o materias primas.
 
 El análisis incluye exploración y limpieza de datos, integración de series históricas, análisis de correlaciones, construcción de pronósticos y comparación de precios entre proveedores.
