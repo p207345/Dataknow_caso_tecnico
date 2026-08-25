@@ -42,6 +42,7 @@ Price_Equipo2: precio del equipo 2.
 También se utilizan variables relacionadas con precios de proveedores, desviaciones e intervalos de confianza.
 
 Modelado y evaluación
+
 Se generaron pronósticos para los precios de los insumos y equipos. Para revisar el desempeño de los modelos se compararon los valores estimados contra los valores observados.
 
 Las principales métricas consideradas fueron:
@@ -62,10 +63,6 @@ matplotlib
 seaborn
 scikit-learn
 TensorFlow/Keras
-
-Instalación
-Se recomienda utilizar un entorno virtual. Las principales dependencias pueden instalarse con:
-
 
 Consideraciones
 
